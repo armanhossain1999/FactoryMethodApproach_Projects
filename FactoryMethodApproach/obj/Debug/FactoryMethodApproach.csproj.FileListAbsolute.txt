@@ -1,0 +1,8 @@
+D:\R54\M2\Projects\4\FactoryMethodApproach_Project\FactoryMethodApproach\bin\Debug\FactoryMethodApproach.exe.config
+D:\R54\M2\Projects\4\FactoryMethodApproach_Project\FactoryMethodApproach\bin\Debug\FactoryMethodApproach.exe
+D:\R54\M2\Projects\4\FactoryMethodApproach_Project\FactoryMethodApproach\bin\Debug\FactoryMethodApproach.pdb
+D:\R54\M2\Projects\4\FactoryMethodApproach_Project\FactoryMethodApproach\obj\Debug\FactoryMethodApproach.csproj.AssemblyReference.cache
+D:\R54\M2\Projects\4\FactoryMethodApproach_Project\FactoryMethodApproach\obj\Debug\FactoryMethodApproach.csproj.SuggestedBindingRedirects.cache
+D:\R54\M2\Projects\4\FactoryMethodApproach_Project\FactoryMethodApproach\obj\Debug\FactoryMethodApproach.csproj.CoreCompileInputs.cache
+D:\R54\M2\Projects\4\FactoryMethodApproach_Project\FactoryMethodApproach\obj\Debug\FactoryMethodApproach.exe
+D:\R54\M2\Projects\4\FactoryMethodApproach_Project\FactoryMethodApproach\obj\Debug\FactoryMethodApproach.pdb
